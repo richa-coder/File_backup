@@ -1,0 +1,10 @@
+$ python back_It_Up.py
+Successfully created directory /Users/richaCodes/backup/61140789
+Zip command is:
+zip -r /Users/richaCodes/backup/61140789/098201.zip /Users/richaCodes/lesson
+Running:
+  adding: Users/richaCodes/lesson/ (stored 0%)
+  adding: Users/richaCodes/lesson/a1.txt (stored 0%)
+  adding: Users/richaCodes/lesson/a2.txt (stored 0%)
+  adding: Users/richaCodes/lesson/a3.txt (stored 0%)
+Successful backup to /Users/richaCodes/backup/61140329/098201.zip
